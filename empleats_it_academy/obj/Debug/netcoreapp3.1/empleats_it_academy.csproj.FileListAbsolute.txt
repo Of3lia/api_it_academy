@@ -299,8 +299,6 @@ D:\Escritorio\IT_ACADEMY_EJERCICIOS\Empleats_Api\empleats_it_academy\bin\Debug\n
 D:\Escritorio\IT_ACADEMY_EJERCICIOS\Empleats_Api\empleats_it_academy\obj\Debug\netcoreapp3.1\empleats_it_academy.csprojAssemblyReference.cache
 D:\Escritorio\IT_ACADEMY_EJERCICIOS\Empleats_Api\empleats_it_academy\obj\Debug\netcoreapp3.1\empleats_it_academy.AssemblyInfoInputs.cache
 D:\Escritorio\IT_ACADEMY_EJERCICIOS\Empleats_Api\empleats_it_academy\obj\Debug\netcoreapp3.1\empleats_it_academy.AssemblyInfo.cs
-D:\Escritorio\IT_ACADEMY_EJERCICIOS\Empleats_Api\empleats_it_academy\obj\Debug\netcoreapp3.1\empleats_it_academy.csproj.CoreCompileInputs.cache
-D:\Escritorio\IT_ACADEMY_EJERCICIOS\Empleats_Api\empleats_it_academy\obj\Debug\netcoreapp3.1\empleats_it_academy.MvcApplicationPartsAssemblyInfo.cache
 D:\Escritorio\IT_ACADEMY_EJERCICIOS\Empleats_Api\empleats_it_academy\obj\Debug\netcoreapp3.1\empleats_it_academy.RazorTargetAssemblyInfo.cache
 D:\Escritorio\IT_ACADEMY_EJERCICIOS\Empleats_Api\empleats_it_academy\obj\Debug\netcoreapp3.1\empleats_it_academy.csproj.CopyComplete
 D:\Escritorio\IT_ACADEMY_EJERCICIOS\Empleats_Api\empleats_it_academy\obj\Debug\netcoreapp3.1\staticwebassets\empleats_it_academy.StaticWebAssets.Manifest.cache
@@ -308,3 +306,8 @@ D:\Escritorio\IT_ACADEMY_EJERCICIOS\Empleats_Api\empleats_it_academy\obj\Debug\n
 D:\Escritorio\IT_ACADEMY_EJERCICIOS\Empleats_Api\empleats_it_academy\obj\Debug\netcoreapp3.1\empleats_it_academy.dll
 D:\Escritorio\IT_ACADEMY_EJERCICIOS\Empleats_Api\empleats_it_academy\obj\Debug\netcoreapp3.1\empleats_it_academy.pdb
 D:\Escritorio\IT_ACADEMY_EJERCICIOS\Empleats_Api\empleats_it_academy\obj\Debug\netcoreapp3.1\empleats_it_academy.genruntimeconfig.cache
+D:\Escritorio\IT_ACADEMY_EJERCICIOS\Empleats_Api\empleats_it_academy\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\Escritorio\IT_ACADEMY_EJERCICIOS\Empleats_Api\empleats_it_academy\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Escritorio\IT_ACADEMY_EJERCICIOS\Empleats_Api\empleats_it_academy\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+D:\Escritorio\IT_ACADEMY_EJERCICIOS\Empleats_Api\empleats_it_academy\obj\Debug\netcoreapp3.1\empleats_it_academy.csproj.CoreCompileInputs.cache
+D:\Escritorio\IT_ACADEMY_EJERCICIOS\Empleats_Api\empleats_it_academy\obj\Debug\netcoreapp3.1\empleats_it_academy.MvcApplicationPartsAssemblyInfo.cache

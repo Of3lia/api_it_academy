@@ -5,6 +5,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.EntityFrameworkCore;
 using empleats_it_academy.Models;
+using Pomelo.EntityFrameworkCore.MySql;
 
 namespace empleats_it_academy
 {
@@ -22,8 +23,12 @@ namespace empleats_it_academy
         {
             // services.AddDbContext<EmployeeContext>(opt =>
             //    opt.UseInMemoryDatabase("EmployeeList"));
+
+            //services.AddDbContext<EmployeeContext>(opt =>
+            //   opt.UseSqlServer(Configuration.GetConnectionString("ApiEmployeesContext")));
+
             services.AddDbContext<EmployeeContext>(opt =>
-               opt.UseSqlServer(Configuration.GetConnectionString("ApiEmployeesContext")));
+               opt.UseMySql(Configuration.GetConnectionString("MysqlEmployeeContext")));
             services.AddControllers();
         }
 
