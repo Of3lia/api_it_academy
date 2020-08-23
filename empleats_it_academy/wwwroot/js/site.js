@@ -53,7 +53,9 @@ function displayEditForm(id) {
 
     document.getElementById('edit-name').value = item.name;
     document.getElementById('edit-id').value = item.id;
-    document.getElementById('edit-isComplete').checked = item.isComplete;
+    document.getElementById('edit-surname').value = item.surname;
+    document.getElementById('edit-job').value = item.job;
+    document.getElementById('edit-salary').value = item.salary;
     document.getElementById('editForm').style.display = 'block';
 }
 
@@ -61,8 +63,10 @@ function updateItem() {
     const itemId = document.getElementById('edit-id').value;
     const item = {
         id: parseInt(itemId, 10),
-        isComplete: document.getElementById('edit-isComplete').checked,
-        name: document.getElementById('edit-name').value.trim()
+        name: document.getElementById('edit-name').value.trim(),
+        surname: document.getElementById('edit-surname').value.trim(),
+        job: document.getElementById('edit-job').value.trim(),
+        salary: parseFloat(document.getElementById('edit-salary').value)
     };
 
     fetch(`${uri}/${itemId}`, {

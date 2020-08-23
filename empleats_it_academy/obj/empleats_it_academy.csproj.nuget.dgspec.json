@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Visual_Studio_Projects\\empleats_it_academy\\empleats_it_academy.csproj": {}
+    "D:\\Escritorio\\IT_ACADEMY_EJERCICIOS\\Empleats_Api\\empleats_it_academy\\empleats_it_academy.csproj": {}
   },
   "projects": {
-    "E:\\Visual_Studio_Projects\\empleats_it_academy\\empleats_it_academy.csproj": {
+    "D:\\Escritorio\\IT_ACADEMY_EJERCICIOS\\Empleats_Api\\empleats_it_academy\\empleats_it_academy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Visual_Studio_Projects\\empleats_it_academy\\empleats_it_academy.csproj",
+        "projectUniqueName": "D:\\Escritorio\\IT_ACADEMY_EJERCICIOS\\Empleats_Api\\empleats_it_academy\\empleats_it_academy.csproj",
         "projectName": "empleats_it_academy",
-        "projectPath": "E:\\Visual_Studio_Projects\\empleats_it_academy\\empleats_it_academy.csproj",
+        "projectPath": "D:\\Escritorio\\IT_ACADEMY_EJERCICIOS\\Empleats_Api\\empleats_it_academy\\empleats_it_academy.csproj",
         "packagesPath": "C:\\Users\\ofeli\\.nuget\\packages\\",
-        "outputPath": "E:\\Visual_Studio_Projects\\empleats_it_academy\\obj\\",
+        "outputPath": "D:\\Escritorio\\IT_ACADEMY_EJERCICIOS\\Empleats_Api\\empleats_it_academy\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
