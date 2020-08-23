@@ -20,8 +20,10 @@ namespace empleats_it_academy
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            // services.AddDbContext<EmployeeContext>(opt =>
+            //    opt.UseInMemoryDatabase("EmployeeList"));
             services.AddDbContext<EmployeeContext>(opt =>
-                opt.UseInMemoryDatabase("EmployeeList"));
+               opt.UseSqlServer(Configuration.GetConnectionString("ApiEmployeesContext")));
             services.AddControllers();
         }
 
